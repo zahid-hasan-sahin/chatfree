@@ -8,7 +8,7 @@ This is a simple **social media website**. i have created this project when i ju
 - user can message another user
 - user can get notification on post like,comment
 
-#Tools -:
+# Tools -:
 - html
 - css
 - php
